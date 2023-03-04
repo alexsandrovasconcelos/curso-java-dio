@@ -45,9 +45,6 @@ class Livro {
 
     @Override
     public String toString() {
-        return "Livro{" +
-                "nome='" + nome + '\'' +
-                ", numPaginas=" + numPaginas +
-                '}';
+        return "Livro{" + "nome='" + nome + '\'' + ", numPaginas=" + numPaginas + '}';
     }
 }
